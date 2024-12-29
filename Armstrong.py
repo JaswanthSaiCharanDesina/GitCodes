@@ -8,5 +8,6 @@ while temp>0:
     temp = temp//10
 if num == n:
     print(n," is Amstrong number")
+    
 else :
     print(n," is Not Armstrong number")
