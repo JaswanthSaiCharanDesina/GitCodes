@@ -1,4 +1,4 @@
-n=int(input("Enter the number"))
+n=int(input("Enter the limit"))
 a=0
 b=1
 c=a+b
